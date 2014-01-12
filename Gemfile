@@ -12,6 +12,10 @@ gem 'rspec-rails'
 
 gem 'faker', '1.1.2'
 
+gem 'will_paginate'
+
+gem 'bootstrap-will_paginate'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
